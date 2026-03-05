@@ -1,0 +1,14 @@
+# Steam Proxy Rules
+# 仅商店和社区走代理，其余 Steam 域名走直连
+
+DOMAIN,store.steampowered.com
+DOMAIN,steamcommunity.com
+DOMAIN-SUFFIX,steamcommunity.com
+DOMAIN,help.steampowered.com
+DOMAIN,login.steampowered.com
+DOMAIN,checkout.steampowered.com
+DOMAIN,store.akamai.steamstatic.com
+DOMAIN,community.akamai.steamstatic.com
+DOMAIN,clan.akamai.steamstatic.com
+DOMAIN-SUFFIX,steamstatic.com
+DOMAIN,media.steampowered.com
